@@ -1,0 +1,8 @@
+name: 'github-actions-php'
+description: 'Runs PHP with all we need (yml)'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+    icon: 'download'
+    color: 'orange'
